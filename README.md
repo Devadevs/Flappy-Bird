@@ -1,2 +1,3 @@
 # Flappy-Bird
-Simple Flappy Bird exe using pygame
+FLappy Bird game code using PyGame. Not affiliated with .Gears or Flappy Bird creator. 
+Enjoy 
